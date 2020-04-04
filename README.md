@@ -1,4 +1,4 @@
-# formularios
+# CREACION DE FORMULARIOS N° 1
 # Fundacion Universitaria Los Libertadores
 # Materia: Codificacion
 ## - Integrantes:
@@ -8,5 +8,5 @@
 ## - Profesor:
 > ANDRES CAMILO JIMENEZ ALVAREZ
 # Descripcion de la actividad
-creacion de formularios
+ACTIVIDAD DE CREAR FORMULARIOS Y ALMACENAR LA INFORMACION  
 
