@@ -1,0 +1,29 @@
+{
+  "name": "formulario1",
+  "version": "1.0.0",
+  "description": "> ANDREA STEFANNIA ARIZA ALVAREZ             \r > DAVID ENRIQUE MENA GAMBOA             \r > JASON FABIAN JIMENEZ HERNANDEZ             \r ## - Profesor:\r > ANDRES CAMILO JIMENEZ ALVAREZ\r # Descripcion de la actividad\r ACTIVIDAD DE CREAR FORMULARIOS Y ALMACENAR LA INFORMACION",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreaAriza/formulario1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreaAriza/formulario1/issues"
+  },
+  "homepage": "https://github.com/AndreaAriza/formulario1#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "express-myconnection": "^1.0.4",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
